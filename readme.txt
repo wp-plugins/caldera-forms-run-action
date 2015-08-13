@@ -3,7 +3,7 @@ Contributors: Desertsnowman, Shelob9
 Tags: caldera forms,
 Requires at least: 3.9
 Tested up to: 4.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2+
 Donate Link: https://calderawp.com
 
